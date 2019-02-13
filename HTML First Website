@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Thimble Sample</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Lily's Webpage</h1>
+    <h2> This is where I will talk about cool things</h2>
+    <h3> But maybe I will also write about them</h3>
+    <h4> Let's look at some pictures of cool things now!</h4>
+  <p>
+      Our first image is of some <strong> cheerful</strong> flowers!
+
+    <img src= https://www.lawnstarter.com/blog/wp-content/uploads/2015/11/8339943595_3719f43270_o.jpg alt= red flowers width="500" height="400">>
+  </p>
+
+   <p class="special">
+     Our next image is going to be a <strong>beautiful</strong> fish!
+     <img src="https://images.ecosia.org/EERAxaC04v8h6q_5izCW_NF31sE=/0x390/smart/http%3A%2F%2Fanimals.ekstrax.com%2Fwp-content%2Fuploads%2F2015%2F06%2F10-Most-Colorful-Fresh-Water-Fish-6.jpg" alt= MandarinFish>
+
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec imperdiet sapien ac est fermentum consequat. Nunc tempor pellentesque purus vitae suscipit. Aliquam id lacinia eros, scelerisque congue purus. Sed laoreet quam sed blandit convallis. Quisque semper finibus dui, vel lacinia turpis convallis vel. Praesent a risus sollicitudin, rhoncus lacus ut, mollis ante. Proin imperdiet nisi urna, eleifend porttitor mi malesuada ut. Donec a feugiat nulla. Fusce eu lobortis diam, ac iaculis ipsum. Phasellus vehicula, nunc quis facilisis placerat, enim risus bibendum felis, quis elementum lectus dolor non sem. Quisque nec laoreet lacus. Donec id dignissim arcu, et finibus quam. Etiam scelerisque urna metus, vel gravida dui placerat non. Pellentesque gravida tortor purus, ut porta augue ullamcorper nec.
+    </p>
+  </body>
+</html>
