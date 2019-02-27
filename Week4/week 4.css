@@ -1,0 +1,63 @@
+*
+{box-sizing: border-box;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  /* Reminder: border-box means that the padding and border are included in the width and height */
+
+  background-image: url(polka_dots.jpg)
+
+}
+
+#container {
+  width: 800px;
+  /* Auto margins value centers the div element */
+  margin: 0 auto;
+}
+
+header {
+  background-color: lightskyblue;
+  height:150px;
+  width: ;
+  padding: ;
+  font-size: 70px;
+  font-family: 'Varela Round', sans-serif;
+  color: #2176ff;
+}
+
+aside {
+  background-color:#ffb5b5;
+  width: 30%;
+  height:500px ;
+  /* Reminder: border-box means that the padding and border are included in the width and height */
+  box-sizing: border-box;
+  float: left;
+  padding:10px;
+  font-size: 20px;
+  font-family: 'Noto Sans TC', sans-serif;
+  color: darkblue;
+}
+ul {list-style-type: circle;
+}
+
+main {
+  background-color:#95d8a0 ;
+  width:70%;
+  height: 500px;
+  /*float: right;*/
+  padding:10px ;
+  /* Reminder: border-box means that the padding and border are included in the width and height */
+  box-sizing: border-box;
+  float: right;
+}
+img {
+  height: 50%;
+  padding:5px
+}
+
+footer {
+  background-color: lightblue;
+  height:200px ;
+  padding:10px ;
+  clear: both;
+}
